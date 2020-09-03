@@ -1,3 +1,4 @@
+// Code by Kshitij Dwivedi
 #include<pthread.h>
 #include<stdio.h>
 int goal=0;
